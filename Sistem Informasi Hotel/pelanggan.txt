@@ -1,0 +1,10 @@
+Email             :muhamadzulfikar995@gmail.com
+Nama              :Muhamad_zulfikar
+Nomor Telepon     :082284134328
+Hotel             :palapa
+Tanggal Pemesanan :24/10/2020
+lama Pemesanan    :3
+Jenis Kamar       :single
+Kelas Kamar       :ekonomis
+jumlah Kamar      :1
+Tanggal Checkout  :27/10/2020
